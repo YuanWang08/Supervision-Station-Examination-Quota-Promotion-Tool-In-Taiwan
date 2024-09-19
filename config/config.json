@@ -1,0 +1,12 @@
+{
+  "enableLineNotify": true,
+  "enableDiscordNotify": true,
+  "trackingDuration": 21,
+  "trackingUnits": [
+    {
+      "typeOfTest_name": "普通重型機車",
+      "dmvNoLv1_name": "臺北區監理所(北宜花)",
+      "dmvNo_name": "板橋監理站"
+    }
+  ]
+}
